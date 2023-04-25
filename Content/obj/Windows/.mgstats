@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/DevilEscape/Content/devil_SL_2_200x150.png","E:/DevilEscape/Content/bin/Windows/devil_SL_2_200x150.xnb","TextureProcessor","Texture2DContent",24954,120085,0.189821
+"E:/DevilEscape/Content/dGame.spritefont","E:/DevilEscape/Content/bin/Windows/dGame.xnb","FontDescriptionProcessor","SpriteFontContent",514,136223,0.1455712
+"E:/DevilEscape/Content/runner.png","E:/DevilEscape/Content/bin/Windows/runner.xnb","TextureProcessor","Texture2DContent",1618,277525,0.0312263
+"E:/DevilEscape/Content/smk.png","E:/DevilEscape/Content/bin/Windows/smk.xnb","TextureProcessor","Texture2DContent",154962,6000085,0.2509111
